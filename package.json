@@ -1,0 +1,16 @@
+{
+  "name": "gulp-file-include",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "fs": "^0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^1.2.0",
+    "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "edm": "node ./input/js/getData && gulp fileinclude"
+  }
+}

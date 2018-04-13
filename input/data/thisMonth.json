@@ -1,0 +1,73 @@
+[{
+  "date": "2018/03/21",
+  "title": "Connected Vehicle Security Vulnerabilities",
+  "link": "https://www.trendmicro.com/us/iot-security/special/Connected-Vehicle-Security-Vulnerabilities",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/311_m.jpg",
+  "text": "In the history of mandatory regulation of computerized vehicles, an E-Letter entitled, “Black box is not safe at all,” was published in Science in 2017. The problem is that the OBD-II and EOBD specifications contain “black boxes” that cannot be fully tested by car manufacturers. In other words, for more than fifteen years, we have been neglecting security problems of the naked (unsecured) cars."
+}, {
+  "date": "2018/03/21",
+  "title": "Autonomous Vehicle Incident Stresses Security Issues With Connected Cars",
+  "link": "https://www.trendmicro.com/us/iot-security/special/312",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/312_m.jpg",
+  "text": "For the first time, a pedestrian was killed in an incident associated with self-driving technology. Not all incidents involving autonomous vehicles lead to loss of human lives. Beyond instances of inadvertent technical malfunction, however, there’s also the risk posed by attacks perpetrated by malicious actors."
+}, {
+  "date": "2018/03/27",
+  "title": "Trend Micro Debunks Common Home Network Security Myths",
+  "link": "https://www.trendmicro.com/us/iot-security/special/Trend-Micro-Debunks-Common-Home-Network-Security-Myths",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/310_m.jpg",
+  "text": "For most people, securing a home wireless network rarely involves more than choosing a unique password. This should come as no surprise: networking is not exactly simple technology. A home network can connect all sorts of devices (computers, tablets, mobile phones, gaming consoles, and appliances, to name just a few) so that they can communicate with each other and the internet."
+}, {
+  "date": "2018/03/09",
+  "title": "Point-of-Sale Malware Uncovered in Applebee’s Restaurants",
+  "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/point-of-sale-malware-uncovered-in-applebee-s-restaurants",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/images/news/point-of-sale2.jpg",
+  "text": "RMH Franchise Holdings (RMH), which owns and operates more than 160 Applebee’s restaurants, disclosed on March 2 that malware were uncovered on their point-of-sale (PoS) systems. The incident potentially exposed their customers’ names, credit or debit card numbers, and card verification codes during the time PoS malware infected their systems."
+}, {
+  "date": "2018/03/29",
+  "title": "Study: Single Connected Car Can Trick Smart Traffic Lights Into Causing Intersection Clogging",
+  "link": "https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/connected-car-can-trick-smart-traffic-lights-causing-intersection-clogging",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/309_m.jpg",
+  "text": "Researchers from the University of Michigan have shown that connected vehicle-based transportation systems can be interfered with using a single attack vehicle. Their research demonstrates how identifying a data spoofing strategy on one connected car can trick a traffic system into believing that an intersection is congested through vehicle-to-infrastructure (V2I) communication."
+}, {
+  "date": "2018/03/26",
+  "title": "SAMSAM Ransomware Suspected in Atlanta Cyberattack",
+  "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/samsam-ransomware-suspected-in-atlanta-cyberattack",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/images/news/SAMSAMransomware.jpg",
+  "text": "Ransomware hit systems used by the city of Atlanta's local services, causing outages on customer facing applications, including some that customers may use to pay bills or access court-related information. According to the news report, the attack resembles the work of SAMSAM, a ransomware family that infected US healthcare facilities in 2016."
+}, {
+  "date": "2018/03/19",
+  "title": "Trend Micro at HiMSS: Protecting Healthcare Organizations with Optimized, Connected Security",
+  "link": "https://blog.trendmicro.com/trend-micro-himss-protecting-healthcare-organizations-optimized-connected-security/",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/308_m.jpg",
+  "text": "The healthcare industry remains one of the most frequently targeted sectors in the United States. It accounted for nearly a quarter (23%) of all breaches reported in 2017, second only to the business category, in another record year for data theft. That’s why Trend Micro has been a long-time supporter of initiatives like HITRUST CyberAid, designed to improve baseline security among smaller healthcare organizations (HCOs)."
+}, {
+  "date": "2018/03/15",
+  "title": "Cryptocurrency-Mining Malware: 2018’s New Menace?",
+  "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/cryptocurrency-mining-malware-2018-new-menace/",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/306_m.jpg",
+  "text": "Will cryptocurrency-mining malware be the new ransomware? The popularity and increasing real-world significance of cryptocurrencies are also drawing cybercriminal attention — so much so that it appears to keep pace with ransomware’s infamy in the threat landscape.In fact, cryptocurrency mining was the most detected network event in devices connected to home routers in 2017."
+}, {
+  "date": "2018/03/12",
+  "title": "The Paradox of Cyberthreats",
+  "link": "https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/305_m.jpg",
+  "text": "The past year saw massive ransomware outbreaks turn into global events that reportedly cost enterprises billions of dollars. We also saw familiar threats like business email compromise (BEC) continue to be a consistent danger for enterprises. Meanwhile, volatile cryptocurrencies disrupted the threat landscape as their value steeply and quickly rose. "
+}, {
+  "date": "2018/03/06",
+  "title": "Securing IoT Networks",
+  "link": "https://blog.trendmicro.com/securing-iot-networks/",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/297_m.jpg",
+  "text": "Today’s IT devices are disposable assets. They have such short in-service lives that they cannot be depreciated under FASB. That’s why there is no market for improving the security of legacy IT tools and products. By the time a post-sales security solution could become generally available, the target product is obsolete. I like my Nexus 6 phone, but it stopped receiving updates on Oct 2016. It is unsafe. There is no infosec aftermarket."
+}, {
+  "date": "2018/03/02",
+  "title": "Trend Micro at MWC: Securing Our Mobile, Connected World",
+  "link": "https://blog.trendmicro.com/trend-micro-mwc-securing-mobile-connected-world/",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/rss/303_m.jpg",
+  "text": "Fast forward to today and the device in your pocket has more compute power than the NASA machines that put man on the moon. Over the years, the annual Mobile World Congress (MWC) show in Barcelona has offered us a fascinating glimpse into the remarkable growth of this industry."
+}, {
+  "date": "2018/03/01",
+  "title": "Malware Attack Will Reportedly Cost Allentown, PA. US$1 Million",
+  "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/malware-attack-will-reportedly-cost-allentown-pa-us-1-million",
+  "img": "https://www.trendmicro.com/us/iot-security/content/main/images/news/US1million.jpg",
+  "text": "According to a local newspaper, Mayor Ed Pawlowski announced last Tuesday that some of the city’s financial and public safety systems had to be shut down. The malware spread quickly, affecting surveillance cameras, external banking transactions, and even limited police database access."
+}]
