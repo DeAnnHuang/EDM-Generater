@@ -55,11 +55,11 @@ Grab the generated EDM filein the
 #### Editing Images: Eheader.png
 
 please note that Eheader.png needs monthly update.
-<img src="https://adc.github.trendmicro.com/deann-huang/EDM/blob/master/input/img/Eheader.png" width="70%">
+<img src="https://github.com/DeAnnHuang/EDM-Generater/blob/master/input/img/Eheader.png" width="70%">
 
 you could use the source file below to adjust,
 
-EDM-edit.psd: https://adc.github.trendmicro.com/deann-huang/EDM/blob/master/input/img/EDM-edit.psd
+EDM-edit.psd: https://github.com/DeAnnHuang/EDM-Generater/blob/master/input/img/EDM-edit.psd
 
 ## Auto Generate & Auto Upload
 
