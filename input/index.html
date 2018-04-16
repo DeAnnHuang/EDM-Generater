@@ -18,7 +18,9 @@
         <tbody>
           <tr>
             @@include('./template/header.html') 
-            @@loop('./template/post.html','./data/thisMonth.json')
+            @@loop('./template/post.html','./data/thisMonth.json') 
+            <!--use custom data: -->
+            <!--@@loop('./template/post.html','./data/customdata.json')-->
             <!-- @@include('./template/otherPost.html') -->
             @@include('./template/static.html')
           </tr>

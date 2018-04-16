@@ -5,8 +5,8 @@ var fs = require('fs');
 
 axios.get("https://www.trendmicro.com/us/iot-security/products-and-solutions/api/IoT%20Threats%20And%20Solutions")
     .then(function (response) {
-        // var month = new Date().getMonth();
-        var month = 3;
+        var month = new Date().getMonth();
+        // var month = 3;
         if(month == 0){month = 12};
         console.log('now month:' + month);
         
