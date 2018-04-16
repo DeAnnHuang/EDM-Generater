@@ -34,16 +34,18 @@ Grab the generated EDM filein the
 **_output_ >_index.html_**
 
 
-### schdule the generate time
-#### crontab
-use [crontab](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800) to schedule the time every month let it  auto-generate.
+## Auto Generate & Auto Upload
 
-<img src="https://imgur.com/Xd47M6W.jpg" width="70%">
+before use,
 
+please change the below files to fit your local related folder path:
+- [generateEdm.command](https://adc.github.trendmicro.com/deann-huang/EDM/blob/master/crontab/generateEdm.command)
+- [ftpUpload.command](https://adc.github.trendmicro.com/deann-huang/EDM/blob/master/crontab/ftpUpload.command)
 
-please change those files to fit your related folder path
-- [generateEdm.command](https://github.com/DeAnnHuang/EDM-Generater/blob/master/crontab/generateEdm.command)
-- [ftpUpload.command](https://github.com/DeAnnHuang/EDM-Generater/blob/master/crontab/ftpUpload.command)
+---
+use *[crontab](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800)* to schedule the time every month let it auto-generate & auto upload for you.
+
+<img src="https://imgur.com/BT0Rn1A.jpg" width="70%">
 
 after run above 2 commands , remember to go [here](http://jp-publishweb.jp.trendnet.org/production/iotsec_us/) to publish.
 
